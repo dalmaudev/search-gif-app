@@ -3,7 +3,7 @@ import { AddCategory } from "./components/AddCategory";
 import { GifGrid } from "./components/GifGrid";
 
 export const GifSearchApp = () => {
-    const [categories, setCategories] = useState(["Todoroki"]);
+    const [categories, setCategories] = useState(["One Punch"]);
 
     return (
         <>
